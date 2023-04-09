@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Gustavo González
+Gustavo González
 Web developer
 
 Show Contacts
@@ -15,7 +15,7 @@ Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+Febrero 17, 1992
 
 Location
 Sacramento, California, USA
