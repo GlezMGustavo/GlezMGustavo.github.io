@@ -32,7 +32,9 @@ Contact
 
 About me
 
-Soy Gustavo González, técnico en informática, físico de carrera y maestro en Ciencias de la Tierra especializado en Ciencias Atmosféricas. Desde la preparatoria estuve en contacto con la programación y en mi tesis de licenciatura fue mi gran encuentro con la programación, donde estuve analizando base de datos de variables atmosféricas. En la maestría seguí por ese campo de las ciencias atmosféricas trabajando con una base de datos de precipitación enorme. Hice unión de base de datos, control de calidad (QC), seguro de calidad (QA), análisis estadístico, implementación de métodos de potencias, presentando estos resultados en tablas, diferentes tipos de gráficas y en mapas de contornos en una malla no regular. Todo eso lo hice programando en R, Shell Scripting, Python y LaTeX. Así enamorándome de la programación. Me gusta aprender sobre como crear videojuegos, sobre todo con Unity y C#, también a manipular los códigos HTML y CSS que me encuentro para los blogs, solo porque sí.
+Soy Gustavo González, técnico en informática, físico de carrera y maestro en Ciencias de la Tierra especializado en Ciencias Atmosféricas. Desde la preparatoria estuve en contacto con la programación y en mi tesis de licenciatura fue mi gran encuentro con la programación, donde estuve analizando base de datos de variables atmosféricas. En la maestría seguí por ese campo de las ciencias atmosféricas trabajando con una base de datos de precipitación enorme. 
+
+En mis trabajos he hecho unión de base de datos, control de calidad (QC), seguro de calidad (QA), análisis estadístico, implementación de métodos de potencias, presentando estos resultados en tablas, diferentes tipos de gráficas y en mapas de contornos en una malla no regular. Todo eso lo hice programando en R, Shell Scripting, Python y LaTeX. Así enamorándome de la programación. Me gusta aprender sobre como crear videojuegos, sobre todo con Unity y C#, también a manipular los códigos HTML y CSS que me encuentro para los blogs, solo porque sí.
 
 
 
@@ -52,7 +54,7 @@ alt = mobile app icon
 Developer Trainee
 # Professional development of applications for iOS and Android.
 
-alt = math icon
+alt = camera icon
 Programador estadístico
 # I make high-quality photos of any category at a professional level.
 
