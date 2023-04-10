@@ -108,12 +108,16 @@ Tecnico en Informática - Colegio de Estudios Científicos y Tecnológicos del E
 
 Experience
 
-Creative director
-2015 — Present
+Científico de datos
+Ene 2021 — Feb 2022
 Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
 
-Art director
-2013 — 2015
+Tutor de programacion
+2021
+Tutorias para cientificos con R
+
+Investigador como estudiante de maestría
+Ago 2016 — Dic 2020
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 Web designer
