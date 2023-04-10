@@ -54,7 +54,7 @@ alt = mobile app icon
 Developer Trainee
 # Professional development of applications for iOS and Android.
 
-alt = camera icon
+alt = stadistic icon
 Programador estadístico
 # I make high-quality photos of any category at a professional level.
 
