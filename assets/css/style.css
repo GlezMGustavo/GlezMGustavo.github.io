@@ -112,6 +112,35 @@
 }
 
 
+/* Estilos para la lista desordenada */
+ul.lista-desordenada {
+    list-style: none;
+}
+
+    ul.lista-desordenada li {
+        display: inline;
+        padding: 0.6px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        background-color: #ffc462;
+        color: black;
+        border-radius: 10px;
+    }
+
+/* Estilos para la lista ordenada */
+ol.lista-ordenada {
+    list-style: none;
+}
+
+    ol.lista-ordenada li {
+        display: inline;
+        padding: 1px;
+        margin-right: 5px;
+        margin-bottom: 20px;
+        background-color: hsl(45, 100%, 72%);
+        color: black;
+        border-radius: 10px;
+    }
 
 
 
